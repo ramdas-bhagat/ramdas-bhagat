@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I’m Ramdas Bhagat 👋
 
-<!--
-**ramdas-bhagat/ramdas-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Senior Architect**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate Senior Architect with a strong background in designing and building scalable, cloud-native solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Skills
+
+- **Languages:** Java
+- **Frameworks:** Spring Boot
+- **Cloud:** Google Cloud Platform (GCP)
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes
+
+## 🌟 What I Do
+
+- Architect and develop robust backend systems
+- Design cloud-native applications for scalability and reliability
+- Implement containerized solutions using Docker & Kubernetes
+- Mentor teams and drive technical excellence
+
+## 📈 GitHub Stats
+
+![Ramdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdas-bhagat&show_icons=true&theme=default)
+
+---
+
+_Always learning, always building._
